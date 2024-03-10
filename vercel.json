@@ -1,5 +1,5 @@
 {
     "rewrites": [
-      { "source": "/(.*)", "destination": "/" }
+      { "source": "./index.html", "destination": "https://porto-v1-fdg2sjy4l-haikalihsans-projects.vercel.app/" }
     ]
   }
